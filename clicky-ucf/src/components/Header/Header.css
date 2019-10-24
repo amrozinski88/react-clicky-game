@@ -1,11 +1,20 @@
 .leftHeader {
-  background-color: aqua;
+  background-color: gray;
+}
+
+.leftHeader a{
+    color: black;
+}
+
+.leftHeader a:hover{
+    text-decoration: none;
+    text-shadow: green 1px 1px 5px;
 }
 .middleHeader {
-  background-color: red;
+  background-color: gray;
 }
 .rightHeader {
-  background-color: green;
+  background-color: gray;
 }
 
 
