@@ -1,0 +1,14 @@
+.leftHeader {
+  background-color: aqua;
+}
+.middleHeader {
+  background-color: red;
+}
+.rightHeader {
+  background-color: green;
+}
+
+
+.topHeader {
+    height: 80px;
+}
