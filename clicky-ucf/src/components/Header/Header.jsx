@@ -3,7 +3,7 @@ import "./Header.css";
 import AnswerDisplay from "../AnswerDisplay/AnswerDisplay";
 const Header = () => {
   return (
-    <div className="row topHeader text-center">
+    <div className="row sticky-top topHeader text-center">
       <div className="col-4 leftHeader d-flex justify-content-center align-items-center">
         <a id="reloadBtn" href="/"><h2>Clicky Game</h2></a>
       </div>
