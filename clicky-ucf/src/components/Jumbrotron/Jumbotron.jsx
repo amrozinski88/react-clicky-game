@@ -5,6 +5,7 @@ import Card from "../Cards/Cards"
 console.log(images)
 
 const Jumbotron = ()=>{
+    images.sort(()=>Math.random()-0.5)
     return (
         <div className="text-center pb-5" >
 
