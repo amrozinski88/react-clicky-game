@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-clicky-game/static/css/main.c8f01a11.chunk.css",
+    "main.js": "/react-clicky-game/static/js/main.538a652d.chunk.js",
+    "main.js.map": "/react-clicky-game/static/js/main.538a652d.chunk.js.map",
+    "runtime-main.js": "/react-clicky-game/static/js/runtime-main.1985c4d4.js",
+    "runtime-main.js.map": "/react-clicky-game/static/js/runtime-main.1985c4d4.js.map",
+    "static/js/2.b6b5b412.chunk.js": "/react-clicky-game/static/js/2.b6b5b412.chunk.js",
+    "static/js/2.b6b5b412.chunk.js.map": "/react-clicky-game/static/js/2.b6b5b412.chunk.js.map",
+    "index.html": "/react-clicky-game/index.html",
+    "precache-manifest.481d692423d503e3e07aec33d87b2685.js": "/react-clicky-game/precache-manifest.481d692423d503e3e07aec33d87b2685.js",
+    "service-worker.js": "/react-clicky-game/service-worker.js",
+    "static/css/main.c8f01a11.chunk.css.map": "/react-clicky-game/static/css/main.c8f01a11.chunk.css.map",
+    "static/media/beth.png": "/react-clicky-game/static/media/beth.4d5e65a0.png",
+    "static/media/birdman.png": "/react-clicky-game/static/media/birdman.612ba8d4.png",
+    "static/media/evilmorty.png": "/react-clicky-game/static/media/evilmorty.0657e1f4.png",
+    "static/media/gianthead.png": "/react-clicky-game/static/media/gianthead.978b3847.png",
+    "static/media/goldenfold.png": "/react-clicky-game/static/media/goldenfold.3774b39d.png",
+    "static/media/jerry.png": "/react-clicky-game/static/media/jerry.af8e8a84.png",
+    "static/media/jessica.png": "/react-clicky-game/static/media/jessica.a9644830.png",
+    "static/media/jumbotronBG.jpg": "/react-clicky-game/static/media/jumbotronBG.cf6e28fe.jpg",
+    "static/media/jumbrotronBG2.jpg": "/react-clicky-game/static/media/jumbrotronBG2.d5520025.jpg",
+    "static/media/morty.png": "/react-clicky-game/static/media/morty.244deeda.png",
+    "static/media/mrmeseeks.png": "/react-clicky-game/static/media/mrmeseeks.9667b7ee.png",
+    "static/media/mrpbh.png": "/react-clicky-game/static/media/mrpbh.d61b2d5b.png",
+    "static/media/rick.png": "/react-clicky-game/static/media/rick.06b65841.png",
+    "static/media/summer.png": "/react-clicky-game/static/media/summer.afdbb7bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1985c4d4.js",
+    "static/js/2.b6b5b412.chunk.js",
+    "static/css/main.c8f01a11.chunk.css",
+    "static/js/main.538a652d.chunk.js"
+  ]
+}
