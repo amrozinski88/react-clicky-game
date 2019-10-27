@@ -2,9 +2,8 @@ import React from "react";
 import "./Jumbotron.css";
 import images from "../../assets/images/images";
 import Card from "../Cards/Cards"
-console.log(images)
 
-const Jumbotron = ()=>{
+const Jumbotron = (props)=>{
     images.sort(()=>Math.random()-0.5)
     return (
         <div className="text-center pb-5" >
@@ -15,7 +14,7 @@ const Jumbotron = ()=>{
                  </div>
                  <div className="row">
                 {images.map((link,index)=>{
-                    return <Card key={index} imgFileName={link}/>
+                    return <Card key={index} handlePicClick={props.handlePicClick} imgFileName={link}/>
                 })}
 
                  </div>
