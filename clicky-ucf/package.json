@@ -2,6 +2,7 @@
   "name": "clicky-ucf",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://amrozinski88.github.io/react-clicky-game/",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
