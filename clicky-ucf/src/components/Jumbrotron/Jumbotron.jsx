@@ -12,7 +12,7 @@ const Jumbotron = (props)=>{
                 <div className="row rowText d-flex justify-content-center align-items-center">
                     <h3>Click And Morty! Click any picture to play, dont click the same one twice</h3>
                  </div>
-                 <div className="row">
+                 <div className="row imagesRow d-flex justify-content-center">
                 {images.map((link,index)=>{
                     return <Card key={index} handlePicClick={props.handlePicClick} imgFileName={link}/>
                 })}

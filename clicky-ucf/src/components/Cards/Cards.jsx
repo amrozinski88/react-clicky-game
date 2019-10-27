@@ -3,7 +3,7 @@ import './Cards.css';
 
 const Card = (props)=>{
     return (
-        <div className="col-3 imgSize my-2">
+        <div className="col-3 imgSize m-2">
         <img onClick={props.handlePicClick} className="img-fluid rounded" src={require(`../../assets/images/${props.imgFileName}`)} alt={props.imgFileName}/>
         </div>
     )
